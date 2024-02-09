@@ -5,8 +5,5 @@ Enhancing Visual of Underwater Image by eliminating blurring and chromatic aberr
 ## Result Image
 
 
-## Demo On Kaggle
-
-
-## Demo on Google Collab
+## Demo on Google Colab
 [Click Here](https://colab.research.google.com/drive/1wFGaIMFd5yupVegCLHFZxvchd5iWmbnQ#scrollTo=TjQMQG8qMmgY)
